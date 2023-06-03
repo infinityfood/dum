@@ -785,12 +785,10 @@ http://www.templatemo.com/tm-515-eatery
     background-size: cover;
     border-radius: 20px;
     margin-top: 0;
-    padding: 40px 0 40px 80px;
+    padding: 8px 8px 8px 25px;
     overflow: hidden;
     position: relative;
     z-index: 22;
-    right: 20px;
-    bottom: 20px;
   }
 
   .footer-open-hour::after {
